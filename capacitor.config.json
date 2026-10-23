@@ -1,0 +1,8 @@
+{
+  "appId": "com.closetcheck.app",
+  "appName": "옷장체크",
+  "webDir": "docs",
+  "server": {
+    "androidScheme": "https"
+  }
+}

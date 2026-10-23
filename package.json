@@ -1,0 +1,19 @@
+{
+  "name": "closet-check",
+  "version": "1.0.0",
+  "private": true,
+  "description": "옷장체크 안드로이드 앱 빌드용",
+  "scripts": {
+    "sync": "cap sync android",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
+    "@capacitor/filesystem": "^8.1.5",
+    "@capacitor/share": "^8.0.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.3"
+  }
+}
